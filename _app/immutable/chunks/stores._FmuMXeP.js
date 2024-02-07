@@ -1,0 +1,1 @@
+import"./scheduler.5ygB7xHw.js";import{s as r}from"./entry.tp74k-gx.js";const e=()=>{const s=r;return{page:{subscribe:s.page.subscribe},navigating:{subscribe:s.navigating.subscribe},updated:s.updated}},a={subscribe(s){return e().page.subscribe(s)}},o={subscribe(s){return e().navigating.subscribe(s)}};export{o as n,a as p};
