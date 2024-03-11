@@ -1,1 +1,0 @@
-import"./scheduler.BxZ5-28l.js";import{s as r}from"./entry.CsalTRmJ.js";const e=()=>{const s=r;return{page:{subscribe:s.page.subscribe},navigating:{subscribe:s.navigating.subscribe},updated:s.updated}},a={subscribe(s){return e().page.subscribe(s)}},o={subscribe(s){return e().navigating.subscribe(s)}};export{o as n,a as p};
