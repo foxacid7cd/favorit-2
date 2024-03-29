@@ -1,1 +1,0 @@
-import"./scheduler.MnUecXvq.js";import{s as r}from"./entry.Cn9j16Ij.js";const e=()=>{const s=r;return{page:{subscribe:s.page.subscribe},navigating:{subscribe:s.navigating.subscribe},updated:s.updated}},a={subscribe(s){return e().page.subscribe(s)}},o={subscribe(s){return e().navigating.subscribe(s)}};export{o as n,a as p};
