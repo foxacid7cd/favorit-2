@@ -1,1 +1,0 @@
-import"./scheduler.DS8maShr.js";import{s as r}from"./entry.Dx1eG8ca.js";const e=()=>{const s=r;return{page:{subscribe:s.page.subscribe},navigating:{subscribe:s.navigating.subscribe},updated:s.updated}},a={subscribe(s){return e().page.subscribe(s)}},o={subscribe(s){return e().navigating.subscribe(s)}};export{o as n,a as p};
